@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marimall
 - 👀 I’m interested in writing python scripts of whatever usage as long as it is intesting or truly useful.
-- 🌱 I’m always working on something but never the same. Life is too small to do the same stuff over and over!
-- 💞️ I’m looking to collaborate on whatever issue you might have that can challenge me or you really need it.
+- 🌱 I’m usually working on writing scripts that make my life easier when it comes to analysing data!
+- 💞️ I’m looking to collaborate on whatever issue you might have and I can help make your work a litlle less sufferable.
 - 📫 How to reach me: Well good luck with that! Kidding of course. If you read my repositories readme's you can find my contact information!
 
 <!---
